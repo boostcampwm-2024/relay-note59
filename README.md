@@ -2,6 +2,10 @@
 > 동료에게 도움이 될 수 있는 방법을 찾고, 동시에 나도 성장할 수 있는 퀘스트 주제들을 추가하는게 좋습니다😉 <br>
 > 핵심 키워드 : `동료성장`, `같이 성장`
 
+### relay-note59 rule
+- 주차 별로 새로운 퀘스트 목록 문서를 작성합니다.
+- 퀘스트 목록 문서 이름은 quest0N.md 입니다.
+
 ![](https://i.imgur.com/5yfouXq.png)
 
 ## 📋✅ [1주차 퀘스트 목록](https://github.com/boostcampwm-2024/relay-note59/blob/main/Quset01.md)
