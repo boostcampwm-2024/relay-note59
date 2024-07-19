@@ -4,7 +4,7 @@
 
 ![](https://i.imgur.com/5yfouXq.png)
 
-## 📋✅ 1주차 퀘스트 목록
+## 📋✅ [1주차 퀘스트 목록](https://github.com/boostcampwm-2024/relay-note59/blob/main/Quset01.md)
 - [ ] 스터디 그룹에서 다른 사람 gist에 comment 달기! (애자일의 빠른 피드백)
 - [ ] 마음에 드는 동료 코드 블록 캡쳐해오기
 - [ ] 과제 도중 사용한 라이브러리 함수 하나 소스 레벨에서 확인하고 정리
