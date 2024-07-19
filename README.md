@@ -4,7 +4,8 @@
 
 ### relay-note59 rule
 - 주차 별로 새로운 퀘스트 목록 문서를 작성합니다.
-- 퀘스트 목록 문서 이름은 quest0N.md 입니다.
+- 퀘스트 목록 문서 이름은 quest0N.md입니다.
+- README.md 파일에 주차별 퀘스트 목록을 첨부하고, 퀘스트 파일 링크를 연결해주세요.
 
 ![](https://i.imgur.com/5yfouXq.png)
 
