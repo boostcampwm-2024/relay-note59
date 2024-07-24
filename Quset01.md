@@ -59,8 +59,10 @@ ___
 	\- ⭐️ 추가 설명: 흥미롭거나 기술적인 내용이 풍부한 아티클을 찾아서 팀원들에게 공유  
 	\- ⭐️ 수행 기준: 내용 정리나 추천 이유등의 본인 감상을 포함하여 링크 공유  
 \- ✅ 배정된 사람 : 황경윤(1주차)
+
 	\- ✅ 수행 결과 인증 :
-           [1주차 노션 링크](https://scandalous-aletopelta-300.notion.site/1-66731afef03e47e7bec5b24e2cf4cfdd?pvs=4)
+	
+	[1주차 노션 링크](https://scandalous-aletopelta-300.notion.site/1-66731afef03e47e7bec5b24e2cf4cfdd?pvs=4)
 
 - 동료의 메소드 하나를 잡아서 리팩토링해보기 (이유와 근거를 찾아서)
 
