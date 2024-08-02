@@ -19,7 +19,17 @@
 - J232_정한힘
 > 마음에 드는 동료 코드 블록 캡쳐해오기
 
+<details>
+    <summary>동료 코드 블록</summary>
+    <img width="569" alt="rerlay 1" src="https://github.com/user-attachments/assets/2eeb6aa9-effc-4eec-a9a1-6004a7fa33d1">
+    <img width="315" alt="relay2" src="https://github.com/user-attachments/assets/7cafa92d-7020-4bdd-b7c8-1a8c200e1be3">
+    <img width="616" alt="relay3" src="https://github.com/user-attachments/assets/9ab8c9bc-0735-4df1-90cd-a80cd8131a95">
+</details>
+
 ```
+동료가 draw.io를 사용하지 않고 UML을 코드로 작성해서 가장 마음에 들었습니다.
+
+vscode extension에서 plantUML을 이용했다고 합니다.
 ```
 
 - J017_권기현
